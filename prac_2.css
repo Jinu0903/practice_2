@@ -9,7 +9,7 @@
   /* TODO */
   /* 포지션 구현하기 */
   /* 불투명도 구현하기 */
-  position: relative;
+  position: absolute;
   top: 200px;
   left: 300px;
   z-index: 3;
